@@ -1,10 +1,7 @@
 # whmcs-7.10.2-decode
 whmcs 7.10.2-decode
 
-email:- dollorinfotech@gmail.com
-whatsaap:- +91-7999452711
-Telegram:- +91-7999452711
-Skype:-  anildalar
+email:- demosaha727@gmail.com
 
 For This Files You can contact me
 
